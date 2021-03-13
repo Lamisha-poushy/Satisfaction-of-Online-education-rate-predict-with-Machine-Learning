@@ -1,1 +1,1 @@
-# Satisfaction-of-Online-education-rate-predict-with-Machine-Learning
+This project was implement for Final year project. Here I predict satisfaction rate of online education with data mining. fd.csv is datasets and python_code.ipynb is python implementation file. I used five models for prediction. Also I've shown the mandatory graphs also which is also implement with machine learning.
